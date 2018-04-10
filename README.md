@@ -56,3 +56,4 @@ Scaling can be done in two ways. First, the user can pick similar points in diff
 
 ## Analysis
 - Now we have the scaling factors for both, the image based and point cloud based approaches.
+**NOTE: I did the analysis manually, but I would soon be adding automatic analysis in the code**
